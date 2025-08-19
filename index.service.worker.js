@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1755631599|4525861936';
+const CACHE_VERSION = '1755632530|5456418775';
 /** @type {string} */
 const CACHE_PREFIX = 'KABOOMerang-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
